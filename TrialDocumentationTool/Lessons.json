@@ -1,0 +1,41 @@
+{
+  "_Purpose": "Documents all previous and current lessons from clinical trials",
+  "_Instructions": "Use the filled-out lesson template provided by the researcher to log new lessons",
+  "_Last_Updated": "XX/XX/XXXX",
+  "_Update_Author": "Daniel Min",
+  "Lessons": [
+    {
+      "Lesson_Name": "XXX",
+      "Description": "XXX",
+      "Date": "",
+      "Warning_Level": "Green, yellow, amber red",
+      "Recommendation": "XXX",
+      "Trial": {
+        "Researcher": "XX",
+        "Trial_Name": "",
+        "Vant": "",
+        "Start_Date": ""
+      },
+      "Attributes": {
+        "Patient_Profile": [
+          "Adolescents"
+        ],
+        "Symptoms": [
+          "Adolescents"
+        ],
+        "Specialty": [
+          "Adolescents, etc."
+        ],
+        "Trial_Time": [
+          "Spring"
+        ],
+        "Therapy": [
+          ""
+        ],
+        "Other": [
+          "Adolescents, etc."
+        ]
+      }
+    }
+  ]
+}
