@@ -1,0 +1,1 @@
+coefficient of determination:1intercept:2slope:3
